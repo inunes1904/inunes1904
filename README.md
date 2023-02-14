@@ -28,6 +28,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/tool-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/tool-jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
+![](https://warehouse-camo.ingress.cmh1.psfhosted.org/f3efd9f0f2a991df83db07f9b9e5e8ee8aafcae8/68747470733a2f2f696d672e736869656c64732e696f2f707970692f646a76657273696f6e732f646a616e676f2d636f6c6f726669656c643f636f6c6f723d304334423333266c6f676f3d646a616e676f266c6f676f436f6c6f723d7768697465266c6162656c3d646a616e676f)
 
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)    
 ![](https://img.shields.io/badge/Tool-Adobe_Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange)
