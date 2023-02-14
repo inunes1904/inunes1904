@@ -27,11 +27,11 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at <b>Ole
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=purple)
 </br>
-![](https://img.shields.io/badge/tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
-![](https://img.shields.io/badge/tool-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/tool-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
 ![](https://img.shields.io/badge/tool-Flask-informational?style=flat&logo=flask&logoColor=white&color=white)
-
+</br>
+![](https://img.shields.io/badge/tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
+![](https://img.shields.io/badge/tool-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)    
 ![](https://img.shields.io/badge/Tool-Adobe_Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange)
 
