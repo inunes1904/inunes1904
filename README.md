@@ -4,7 +4,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 
 
 <p align="left" ><a href="https://www.codewars.com/users/inunes1904"><img align="center"
-    src="https://www.codewars.com/users/DianaMariaa98/badges/large](https://www.codewars.com/users/inunes1904/badges/large"
+    src="https://www.codewars.com/users/inunes1904/badges/large"
     alt="gabimeirellesm" bg_color=#808080/></a></p>
 
 ### :gear: OS's
