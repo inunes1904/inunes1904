@@ -6,12 +6,12 @@ I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently working at
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=ff6600) 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=ff6600)  
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=darkred)  
 
 ### 🔩 Coding Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=ff6600)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=darkred)
 </br>
 ![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=Csharp&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=blue)
