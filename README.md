@@ -3,10 +3,9 @@
 I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Olegário Fernandes** as a Team Manager/Developer.
 
 
-<p align="center" ><a href="https://www.codewars.com/users/DianaMariaa98"><img align="center"
+<p align="left" ><a href="https://www.codewars.com/users/inunes1904"><img align="center"
     src="https://www.codewars.com/users/DianaMariaa98/badges/large"
-    alt="gabimeirellesm" 
-                                   bg_color=#808080/></a></p>
+    alt="gabimeirellesm" bg_color=#808080/></a></p>
 
 ### :gear: OS's
 
