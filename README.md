@@ -2,6 +2,12 @@
 
 I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Olegário Fernandes** as a Team Manager/Developer.
 
+
+<p align="center" ><a href="https://www.codewars.com/users/DianaMariaa98"><img align="center"
+    src="https://www.codewars.com/users/DianaMariaa98/badges/large"
+    alt="gabimeirellesm" 
+                                   bg_color=#808080/></a></p>
+
 ### :gear: OS's
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=0078D6) ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=0078D6)  
