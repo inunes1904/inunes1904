@@ -2,7 +2,7 @@
 </br>
 I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Olegário Fernandes** as a Team Manager/Developer.
 
-### 🟥 OS's
+### 🟥 Operating Systems
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=0078D6) 
