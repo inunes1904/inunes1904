@@ -2,13 +2,13 @@
 </br>
 I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently working at <b>Olegário Fernandes</b> as a <i>Team Manager</i>.
 
-### :check: Operating Systems
+### ✅ Operating Systems
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=0078D6)  
 
-### :check: Coding Languages
+### ✅ Coding Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=cc0000)
