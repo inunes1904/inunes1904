@@ -2,7 +2,7 @@
 </br>
 I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Olegário Fernandes** as a Team Manager/Developer.
 
-### :gear: OS's
+### 🟥 OS's
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=0078D6) 
@@ -15,7 +15,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=00a1e0)
 
-### :gear: Databases
+### :i: Databases
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1) 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-SQLITE-informational?style=flat&logo=SQLITE&logoColor=white&color=blue)
