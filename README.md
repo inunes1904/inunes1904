@@ -32,6 +32,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at <b>Ole
 </br>
 ![](https://img.shields.io/badge/tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/tool-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
+</br>
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)    
 ![](https://img.shields.io/badge/Tool-Adobe_Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange)
 
