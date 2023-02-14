@@ -20,6 +20,8 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at <b>Ole
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1) 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLITE&logoColor=white&color=blue)
+</br>
+![](https://img.shields.io/badge/Database-MicrosoftSqlServer-informational?style=flat&logo=MicrosoftSQLserver&logoColor=white&color=darkred)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=F80000) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248) 
 
