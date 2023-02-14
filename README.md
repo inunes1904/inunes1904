@@ -25,7 +25,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ### :gear: Technologies and Tools
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
 ![](https://img.shields.io/badge/Tool-Adobe_Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=31A8FF)    
-
+![](https://img.shields.io/badge/Tool-Adobe_Illustrator-informational?style=flat&logo=adobe-illustrator&logoColor=white&color=orange)
 
 
 ### :card_index_dividers: Projects
