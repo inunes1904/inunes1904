@@ -1,5 +1,5 @@
 # Hello world,</br> my name is Ivo Nunes 👋🏻 </br> <a href="https://www.codewars.com/users/inunes1904"><img src="https://www.codewars.com/users/inunes1904/badges/small"> </img></a>
-I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently working at <b>Olegário Fernandes</b> as a <i>Team Manager</i>.
+I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying at <b>Systems and Computer Management </b> at the <i>Atlântica University</i>.
 
 ### 🖥️ Operating Systems
 
