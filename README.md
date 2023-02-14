@@ -19,7 +19,7 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ### 🟨 Databases
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1) 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4479A1)
-![](https://img.shields.io/badge/Database-SQLITE-informational?style=flat&logo=SQLITE&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLITE&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Database-Oracle-informational?style=flat&logo=oracle&logoColor=white&color=F80000) 
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248) 
 
@@ -27,8 +27,8 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=purple)
 </br>
-![](https://img.shields.io/badge/tool-bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
-![](https://img.shields.io/badge/tool-jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
+![](https://img.shields.io/badge/tool-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple)
+![](https://img.shields.io/badge/tool-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/tool-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
 ![](https://img.shields.io/badge/tool-Flask-informational?style=flat&logo=flask&logoColor=white&color=white)
 
