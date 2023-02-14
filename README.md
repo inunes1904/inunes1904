@@ -8,14 +8,14 @@ I'm a Fullstack Web Developer. I'm from Portugal and currently working at **Oleg
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=0078D6)  
 
-### :code: Coding Languages
+### 🟧 Coding Languages
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=cc0000)
 ![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=00a1e0)
 
-### :i: Databases
+### 🟪: Databases
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1) 
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-SQLITE-informational?style=flat&logo=SQLITE&logoColor=white&color=blue)
