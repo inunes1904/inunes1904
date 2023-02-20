@@ -12,8 +12,8 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=darkred)
 </br>
-![](https://img.shields.io/badge/Language-CSharp-informational?style=flat&logo=Csharp&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Language-C-informational?style=flat&logo=C&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=Csharp&logoColor=white&color=purple)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Apex-informational?style=flat&logo=salesforce&logoColor=white&color=00a1e0)
 
 ### 📑 Databases
