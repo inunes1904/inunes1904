@@ -6,7 +6,7 @@
   <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>
 </a></p>
 <p>
-<img src="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24/public_url"></img>
+<img src="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24/public_url](https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"></img>
 </p>
 </div> 
 
