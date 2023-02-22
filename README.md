@@ -2,7 +2,7 @@
 <p align="center"><a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a></p>
-<p><a href="https://www.codewars.com/users/inunes1904">
+<p  align="center"><a href="https://www.codewars.com/users/inunes1904">
   <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>
 </a></p>
 </div> 
