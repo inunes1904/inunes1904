@@ -6,7 +6,7 @@
   <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>
 </a></p>
 <p>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9115c8d-2733-4c09-baaf-fbacb7c68d24" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img src="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24/public_url"></img>
 </p>
 </div> 
 
