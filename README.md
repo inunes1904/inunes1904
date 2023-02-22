@@ -1,5 +1,5 @@
 # <div align="center"><p>Hello world, my name is Ivo Nunes 👋🏻 </p>
-<p><a align="center" href="#">
+<p align="center"><a href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a></p>
 <a href="https://www.codewars.com/users/inunes1904">
