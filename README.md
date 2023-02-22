@@ -1,4 +1,4 @@
-# <div align="center">Hello world, my name is Ivo Nunes 👋🏻 </br>
+# <div align="center"><p>Hello world, my name is Ivo Nunes 👋🏻 </p>
 <a align="center" href="#">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
 </a>
