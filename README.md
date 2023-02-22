@@ -1,4 +1,7 @@
 # <div align="center">Hello world, my name is Ivo Nunes 👋🏻 </br><a href="https://www.codewars.com/users/inunes1904"><img src="https://www.codewars.com/users/inunes1904/badges/small"> </img></a></div> 
+
+<a href=""> ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 #### <div align="center">I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying </br><b>Systems and Computer Management </b> at the <i>Atlântica University</i>.</div>
 #
 ### 🖥️ Operating Systems
