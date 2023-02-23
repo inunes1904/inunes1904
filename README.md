@@ -1,4 +1,4 @@
- <p>Hello world, my name is Ivo Nunes 👋🏻 </p>
+ ##<p>Hello world, my name is Ivo Nunes 👋🏻 </p>
   <p align="center">
 <a href="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24?source=linked_in_profile">
 <img src="https://i.ibb.co/XkmphMm/microsoft-certified-azure-fundamentals-1.png"></img>
@@ -15,7 +15,7 @@
 
 
 ##### <div align="center">I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying </br><b>Systems and Computer Management </b> at the <i>Atlântica University</i>.</div>
-#### 🖥️ Operating Systems
+### 🖥️ Operating Systems
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=APPLE&logoColor=white&color=ff6600) 
