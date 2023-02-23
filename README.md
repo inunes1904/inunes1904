@@ -1,5 +1,5 @@
  # <div align="center"> <p>Hello world, my name is Ivo Nunes 👋🏻 </p> <p> <a href="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24?source=linked_in_profile"> <img src="https://i.ibb.co/XkmphMm/microsoft-certified-azure-fundamentals-1.png"></img> </a> </p> <p> <a href="https://www.linkedin.com/in/ivo-nunes-30ab1213a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img> </a> </p> <p> <a href="https://www.codewars.com/users/inunes1904"> <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>  </a> </p> </div> 
- 
+ <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b9115c8d-2733-4c09-baaf-fbacb7c68d24" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 ### <div align="center">I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying </br><b>Systems and Computer Management </b> at the <i>Atlântica University</i>.</div>
 #
 ### 🖥️ Operating Systems
