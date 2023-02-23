@@ -14,7 +14,7 @@
 
 
 
-#### <div align="center">I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying </br><b>Systems and Computer Management </b> at the <i>Atlântica University</i>.</div>
+##### <div align="center">I'm a <b>Fullstack Web Developer</b>. I'm from Portugal and currently studying </br><b>Systems and Computer Management </b> at the <i>Atlântica University</i>.</div>
 #### 🖥️ Operating Systems
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6) 
