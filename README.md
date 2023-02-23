@@ -1,4 +1,4 @@
- # <div align="center"> 
+ # (<div align="center"> 
     <p>Hello world, my name is Ivo Nunes 👋🏻 </p>
     <p>
        <a href="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24?source=linked_in_profile">
@@ -15,7 +15,7 @@
         <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>
    </a>
   </p> 
-</div>
+</div> )
 
 
 
