@@ -1,6 +1,8 @@
 # <div align="center"><p>Hello world, my name is Ivo Nunes 👋🏻 </p>
   <p align="center">
+<a href="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24?source=linked_in_profile">
 <img src="https://i.ibb.co/XkmphMm/microsoft-certified-azure-fundamentals-1.png"></img>
+</a>
 </p>
 <p align="center"><a href="https://www.linkedin.com/in/ivo-nunes-30ab1213a/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img>
