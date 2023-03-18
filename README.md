@@ -27,6 +27,7 @@
 ### :gear: Tools & Frameworks
 ![](https://img.shields.io/badge/Editor-Visual_Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC) 
+![](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellij-idea&logoColor=white&color=217aff)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=purple)
 </br>
 ![](https://img.shields.io/badge/Tool-Django-informational?style=flat&logo=django&logoColor=white&color=0c4b33)
