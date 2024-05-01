@@ -1,5 +1,5 @@
  # <div align="center"> <p>I'm Ivo 🤙 </p> <p> <a href="https://www.credly.com/badges/b9115c8d-2733-4c09-baaf-fbacb7c68d24?source=linked_in_profile"> <img style="height:75px;" src="https://i.ibb.co/L9M0GjG/ms-af.png"></img> </a> </p> <p> <a href="https://www.linkedin.com/in/ivo-nunes-30ab1213a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img> </a> </p>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inunes1904&layout=compact&theme=buefy&hide_border=true" />
  <p> <a href="https://www.codewars.com/users/inunes1904"> <img src="https://www.codewars.com/users/inunes1904/badges/small"> </img>  </a> </p></div> 
 
 
